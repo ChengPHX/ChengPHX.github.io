@@ -6,12 +6,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am a third year master in [Beijing Institute of Technology](https://www.bit.edu.cn/), my research interests include computer vision, gait recognition, SMPL modeling
 
-I'm a third year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+It is a great honor to be involved and to learn in [Advanced Research Institute of Multidisciplinary Science and MIIT Key Laboratory of Complex-field Intelligent Sensing](https://arims.bit.edu.cn/)
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
-
-[Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
+[Email](mailto:yufeic@sina.com) , [Edu_Email](mailto:3120222020@bit.edu.cn)
 
